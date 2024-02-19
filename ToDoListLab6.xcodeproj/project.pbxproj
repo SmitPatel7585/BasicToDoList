@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CB10F9092B8315D000D56E47 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB10F9082B8315D000D56E47 /* TableViewController.swift */; };
+		CB10F90B2B83162500D56E47 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB10F90A2B83162500D56E47 /* TableViewCell.swift */; };
 		CB4980EE2B8276DB00311ECB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4980ED2B8276DB00311ECB /* AppDelegate.swift */; };
 		CB4980F02B8276DB00311ECB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4980EF2B8276DB00311ECB /* SceneDelegate.swift */; };
 		CB4980F22B8276DB00311ECB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4980F12B8276DB00311ECB /* ViewController.swift */; };
@@ -37,6 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CB10F9082B8315D000D56E47 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		CB10F90A2B83162500D56E47 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		CB4980EA2B8276DB00311ECB /* ToDoListLab6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoListLab6.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB4980ED2B8276DB00311ECB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CB4980EF2B8276DB00311ECB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +109,8 @@
 				CB4980EF2B8276DB00311ECB /* SceneDelegate.swift */,
 				CB4980F12B8276DB00311ECB /* ViewController.swift */,
 				CB4980F32B8276DB00311ECB /* Main.storyboard */,
+				CB10F90A2B83162500D56E47 /* TableViewCell.swift */,
+				CB10F9082B8315D000D56E47 /* TableViewController.swift */,
 				CB4980F92B8276DC00311ECB /* Assets.xcassets */,
 				CB4980FB2B8276DC00311ECB /* LaunchScreen.storyboard */,
 				CB4980FE2B8276DC00311ECB /* Info.plist */,
@@ -264,6 +270,8 @@
 				CB4980F82B8276DB00311ECB /* ToDoListLab6.xcdatamodeld in Sources */,
 				CB4980F22B8276DB00311ECB /* ViewController.swift in Sources */,
 				CB4980EE2B8276DB00311ECB /* AppDelegate.swift in Sources */,
+				CB10F90B2B83162500D56E47 /* TableViewCell.swift in Sources */,
+				CB10F9092B8315D000D56E47 /* TableViewController.swift in Sources */,
 				CB4980F02B8276DB00311ECB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
